@@ -1,0 +1,349 @@
+加载变量名: ['class', 'data']
+data clusters: 10
+dataset points: 11000
+dataset features: 256
+Grid Search over gamma:   0%|          | 0/11 [00:00<?, ?it/s]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (10). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+Grid Search over gamma:   9%|▉         | 1/11 [14:03<2:20:32, 843.22s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  18%|█▊        | 2/11 [27:28<2:03:08, 820.89s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  27%|██▋       | 3/11 [41:13<1:49:40, 822.59s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  36%|███▋      | 4/11 [55:48<1:38:24, 843.46s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  45%|████▌     | 5/11 [1:10:57<1:26:41, 866.97s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  55%|█████▍    | 6/11 [1:25:50<1:13:00, 876.03s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+
+gamma value: 0.03125
+nmis: [0.0010886723065395031, 0.0010886723065395031, 0.0010886723065395031, 0.0010886723065395031, 0.0010886723065395031, 0.0010886723065395031, 0.0010886723065395031, 0.000726360212836573, 0.0010886723065395031, 0.0010886723065395031]
+0.00105244109716921
+aris: [1.2138090100712601e-07, 1.2138090100712601e-07, 1.2138090100712601e-07, 1.2138090100712601e-07, 1.2138090100712601e-07, 1.2138090100712601e-07, 1.2138090100712601e-07, 8.455687466092477e-08, 1.2138090100712601e-07, 1.2138090100712601e-07]
+1.1769849837250589e-07
+f1s: [0.019098444288036084, 0.019098444288036084, 0.019098444288036084, 0.019098444288036084, 0.019098444288036084, 0.019098444288036084, 0.019098444288036084, 0.016534391534391537, 0.019098444288036084, 0.019098444288036084]
+0.01884203901267163
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.0625
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.125
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.25
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.5
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 1
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 2
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+Grid Search over gamma:  64%|██████▎   | 7/11 [1:40:57<59:04, 886.05s/it]  /usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  73%|███████▎  | 8/11 [1:55:48<44:23, 887.68s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  82%|████████▏ | 9/11 [2:11:25<30:06, 903.17s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma:  91%|█████████ | 10/11 [2:26:53<15:10, 910.75s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+Grid Search over gamma: 100%|██████████| 11/11 [2:41:48<00:00, 905.84s/it]Grid Search over gamma: 100%|██████████| 11/11 [2:41:48<00:00, 882.58s/it]
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 4
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 8
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 16
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 32
+nmis: [0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784, 0.0022973160017968784]
+0.0022973160017968784
+aris: [-2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05, -2.792577949784862e-05]
+-2.7925779497848625e-05
+f1s: [0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544, 0.046645439281428544]
+0.046645439281428544
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+Best gamma = 0.06250
+Best mean NMI = 0.0023
+Best mean ari = 0.0000
+Best mean f1 = 0.0466
+mean time: 88.22111643661152

@@ -1,0 +1,1680 @@
+加载变量名: ['class', 'data', 'label']
+data clusters: 9
+dataset points: 3031
+dataset features: 2
+Grid Search over gamma:   0%|          | 0/10 [00:00<?, ?it/s]Grid Search over gamma:  10%|█         | 1/10 [49:42<7:27:26, 2982.92s/it]Grid Search over gamma:  20%|██        | 2/10 [4:55:48<22:01:51, 9913.97s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 757 with accuracies 
+[1.72047493e-13 3.45213663e-05 4.20528435e-05 3.87056610e-05
+ 3.99624067e-05 4.82009636e-05 4.47266475e-05 8.22334271e-05
+ 3.34071481e-05 4.18326623e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 757 instead with accuracy 
+4.056431262942967e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.72023611e-13 3.45213663e-05 4.20528435e-05 3.87056609e-05
+ 3.99624067e-05 4.82009637e-05 4.47266474e-05 8.22334271e-05
+ 3.34071480e-05 4.18326625e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+Grid Search over gamma:  30%|███       | 3/10 [43:10:01<132:41:37, 68242.46s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 507 with accuracies 
+[2.79242507e-13 3.83449815e-05 3.70904721e-05 4.00994718e-05
+ 4.07824319e-05 3.86212502e-05 4.07227530e-05 4.80121828e-05
+ 4.05845568e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 507 instead with accuracy 
+3.676474305119672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.79194670e-13 3.83449815e-05 3.70904708e-05 4.00994729e-05
+ 4.07824319e-05 3.86212502e-05 4.07227531e-05 4.80121661e-05
+ 4.05845765e-05 4.33893301e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+Grid Search over gamma:  40%|████      | 4/10 [59:04:53<106:31:54, 63919.08s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 322 with accuracies 
+[2.67153386e-13 5.47965027e-05 6.51051748e-05 4.74244913e-05
+ 4.14713884e-05 3.64330394e-05 3.77452120e-05 4.40785879e-05
+ 4.29335050e-05 4.45353854e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 322 instead with accuracy 
+4.145232873273661e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[2.67169463e-13 5.47965034e-05 6.51051720e-05 4.74244916e-05
+ 4.14713847e-05 3.64330469e-05 3.77452123e-05 4.40785879e-05
+ 4.29335053e-05 4.45353852e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+Grid Search over gamma:  50%|█████     | 5/10 [80:29:22<95:21:45, 68661.14s/it] /usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 203 with accuracies 
+[9.73024677e-14 4.58720558e-05 7.19130623e-05 3.86134988e-05
+ 3.62810101e-05 4.15802277e-05 8.95371682e-05 4.17676724e-05
+ 4.45914435e-05 4.48069344e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 183 instead with accuracy 
+4.498687278148672e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[9.73017260e-14 4.07921549e-05 5.32911095e-05 5.18636105e-05
+ 3.47975815e-05 4.19072562e-05 7.37373103e-05 3.34409685e-05
+ 5.53269578e-05 6.47117755e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+Grid Search over gamma:  60%|██████    | 6/10 [102:34:32<80:23:19, 72349.81s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (6) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (6) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (6) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 181 with accuracies 
+[6.88376944e-15 6.54166189e-05 3.56222959e-05 2.48687293e-05
+ 7.26081863e-05 3.04225617e-05 2.82266049e-05 4.31944300e-05
+ 3.99839039e-05 4.23019615e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 165 instead with accuracy 
+3.799555845517398e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[7.07718836e-15 6.53449344e-05 4.12957499e-05 2.60521223e-05
+ 6.64859209e-05 3.08386024e-05 2.83094518e-05 3.19792494e-05
+ 4.27785574e-05 4.68710374e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (5) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+
+gamma value: 0.03125
+nmis: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+1.0
+aris: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+1.0
+f1s: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+1.0
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.0625
+nmis: [0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026, 0.8272183509329026]
+0.8272183509329027
+aris: [0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332, 0.5786536933569332]
+0.5786536933569331
+f1s: [0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719, 0.7176839356645719]
+0.7176839356645719
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.125
+nmis: [0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403, 0.32970110794630403]
+0.32970110794630403
+aris: [0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007, 0.1354473276055007]
+0.13544732760550068
+f1s: [0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093, 0.2593546861707093]
+0.2593546861707093
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.25
+nmis: [0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976, 0.010289713585346976]
+0.010289713585346975
+aris: [-0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135, -0.0006132224530408135]
+-0.0006132224530408135
+f1s: [0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816, 0.05675796212765816]
+0.05675796212765816
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 0.5
+nmis: [0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295, 0.006847562272704295]
+0.006847562272704294
+aris: [0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515, 0.00039661368892499515]
+0.00039661368892499515
+f1s: [0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408, 0.05594668902979408]
+0.05594668902979407
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 1
+nmis: [0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378, 0.005338026653014378]
+0.005338026653014377
+aris: [0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243, 0.00014281348693884243]
+0.00014281348693884243
+f1s: [0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137, 0.05427556378008137]
+0.05427556378008137
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 2
+nmis: [0.00436082153713584, 0.003457340524574595, 0.00436082153713584, 0.00436082153713584, 0.003435061385527026, 0.003457340524574595, 0.003457340524574595, 0.003457340524574595, 0.003457340524574595, 0.003457340524574595]
+0.003726156914438212
+aris: [0.00043227755188924547, -5.265617631264337e-05, 0.00043227755188924547, 0.00043227755188924547, 0.00023833289265595212, -5.265617631264337e-05, -5.265617631264337e-05, -5.265617631264337e-05, -5.265617631264337e-05, -5.265617631264337e-05]
+0.0001219228490447828
+f1s: [0.05395989142478711, 0.05389951258937589, 0.05395989142478711, 0.05395989142478711, 0.05389951258937589, 0.05389951258937589, 0.05389951258937589, 0.05389951258937589, 0.05389951258937589, 0.05389951258937589]
+0.05391762623999925
+Grid Search over gamma:  70%|███████   | 7/10 [126:41:52<64:14:20, 77086.98s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (4) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[4.99018483e-15 1.65606345e-05 3.51297741e-05 2.70449121e-05
+ 4.16831677e-05 5.26144651e-05 2.39270688e-05 5.34803569e-05
+ 4.30712956e-05 4.29631997e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+3.364748745182546e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.49054835e-15 1.65606436e-05 3.51297866e-05 2.70449343e-05
+ 4.16831437e-05 5.26144681e-05 2.39270667e-05 5.34803750e-05
+ 4.30713004e-05 4.29631656e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (3) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+Grid Search over gamma:  80%|████████  | 8/10 [151:55:10<45:15:03, 81451.84s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (8) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 75 with accuracies 
+[1.78674261e-11 1.10245287e-05 1.45065981e-05 2.79446538e-05
+ 2.12947999e-05 1.71236820e-05 2.50648983e-05 4.98437596e-05
+ 2.98588942e-05 4.38611540e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 75 instead with accuracy 
+2.4052298672164287e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[5.38989806e-14 1.10245703e-05 1.45065298e-05 2.79446758e-05
+ 2.12947789e-05 1.71236928e-05 2.50648796e-05 4.98438134e-05
+ 2.98588223e-05 4.38611566e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+Grid Search over gamma:  90%|█████████ | 9/10 [173:10:50<22:11:56, 79916.38s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:329: UserWarning: Graph is not fully connected, spectral embedding may not work as expected.
+  warnings.warn(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 59 with accuracies 
+[1.34931614e-10 2.02336936e-06 1.02168876e-05 9.31074401e-06
+ 7.30116967e-06 3.62192530e-05 4.85022107e-05 6.13508639e-05
+ 4.70487793e-05 4.48346492e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+Use iteration 48 instead with accuracy 
+2.264956923958758e-05.
+
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
+[1.77857588e-13 2.02880834e-06 1.03531153e-05 7.07086931e-06
+ 6.85037292e-06 3.53349182e-05 2.55823712e-05 4.63146141e-05
+ 4.26347749e-05 5.03255519e-05]
+not reaching the requested tolerance 4.5165419578552246e-05.
+  _, diffusion_map = lobpcg(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:239: RuntimeWarning: overflow encountered in multiply
+  x = um.multiply(x, x, out=x)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/utils/extmath.py:203: RuntimeWarning: overflow encountered in matmul
+  ret = a @ b
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/metrics/pairwise.py:425: RuntimeWarning: invalid value encountered in add
+  distances += XX
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:700: RuntimeWarning: overflow encountered in square
+  lloyd_iter(
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/numpy/core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/base.py:1389: ConvergenceWarning: Number of distinct clusters (7) found smaller than n_clusters (9). Possibly due to duplicate points in X.
+  return fit_method(estimator, *args, **kwargs)
+Grid Search over gamma: 100%|██████████| 10/10 [192:35:10<00:00, 76811.73s/it]  Grid Search over gamma: 100%|██████████| 10/10 [192:35:10<00:00, 69331.05s/it]
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 4
+nmis: [0.0011744783971492018, 0.001659701794782643, 0.001659701794782643, 0.0012437474487423175, 0.0012437474487423175, 0.0011744783971492018, 0.001659701794782643, 0.001659701794782643, 0.0011744783971492018, 0.0011744783971492018]
+0.0013824215665212015
+aris: [-6.475292942906608e-05, -0.00016028325249771842, -0.00016028325249771842, 2.307140087635879e-05, 2.307140087635879e-05, -6.475292942906608e-05, -0.00016028325249771842, -0.00016028325249771842, -6.475292942906608e-05, -6.475292942906608e-05]
+-8.540019259544204e-05
+f1s: [0.051754282280862464, 0.05206636149359143, 0.05206636149359143, 0.05210984330892636, 0.05210984330892636, 0.051754282280862464, 0.05206636149359143, 0.05206636149359143, 0.051754282280862464, 0.051754282280862464]
+0.05195022617156684
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 8
+nmis: [0.004748970142881606, 0.004747316824023278, 0.004748970142881606, 0.00398887846001249, 0.00398887846001249, 0.005508408254580017, 0.004502532602073929, 0.004502532602073929, 0.004747316824023278, 0.00398887846001249]
+0.004547268277257511
+aris: [-0.00029819429626668626, -0.00020321388372986998, -0.00029819429626668626, -0.00032972461460612103, -0.00032972461460612103, -0.00026524717287351425, -0.00048219230344144487, -0.00048219230344144487, -0.00020321388372986998, -0.00032972461460612103]
+-0.00032216219835678794
+f1s: [0.05323197552668404, 0.05322100559188975, 0.05323197552668404, 0.0532079954708359, 0.0532079954708359, 0.053923316322804025, 0.053186376166389784, 0.053186376166389784, 0.05322100559188975, 0.0532079954708359]
+0.05328260173052388
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+gamma value: 16
+nmis: [0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479, 0.003656063888978479]
+0.0036560638889784796
+aris: [-0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967, -0.001020325577562967]
+-0.001020325577562967
+f1s: [0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023, 0.05334385721081023]
+0.05334385721081023
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+Best gamma = 0.03125
+Best mean NMI = 1.0000
+Best mean ari = 1.0000
+Best mean f1 = 1.0000
+mean time: 6933.097649812698
