@@ -61,17 +61,21 @@ def run_spectral_clustering(X, n_clusters, gamma, n_runs, y_true):
 
 if __name__ == '__main__':
     # === 修改为你的数据文件和变量名 ===
-    key = "mnist"
+    key = "pendigits"
     mat_file = f'../data/{key}.mat'
+
     # spiral 4C AC RinG complex9 spam
-    x_key = 'data'
-    y_key = 'class'
+    """ x_key = 'data'
+    y_key = 'class' """
+
     # landsat waveform3
     """ x_key = 'data'
     y_key = 'label' """
+
     # pendigits
-    """ x_key = 'X'
-    y_key = 'gtlabels' """
+    x_key = 'X'
+    y_key = 'gtlabels'
+
     n_runs = 10
 
     X, y_true = load_data_from_mat(mat_file, x_key, y_key)
@@ -80,7 +84,8 @@ if __name__ == '__main__':
     print(f"dataset points: {X.shape[0]}")
     print(f"dataset features: {X.shape[1]}")
 
-    gamma_values = [2 ** i for i in range(-5, 6)]
+    # gamma_values = [2 ** i for i in range(-5, 6)]
+    gamma_values = [2 ** i for i in range(-5, 5)]
 
     best_overall_nmi = -1
     best_overall_ari = -1
