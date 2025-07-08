@@ -61,20 +61,20 @@ def run_spectral_clustering(X, n_clusters, gamma, n_runs, y_true):
 
 if __name__ == '__main__':
     # === 修改为你的数据文件和变量名 ===
-    key = "pendigits"
+    key = "one_gaussian_10_one_line_5_2"
     mat_file = f'../data/{key}.mat'
 
     # spiral 4C AC RinG complex9 spam
-    """ x_key = 'data'
-    y_key = 'class' """
+    x_key = 'data'
+    y_key = 'class'
 
     # landsat waveform3
     """ x_key = 'data'
     y_key = 'label' """
 
     # pendigits
-    x_key = 'X'
-    y_key = 'gtlabels'
+    """ x_key = 'X'
+    y_key = 'gtlabels' """
 
     n_runs = 10
 

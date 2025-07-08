@@ -2,7 +2,7 @@
 data clusters: 3
 dataset points: 900
 dataset features: 2
-Grid Search over gamma:   0%|          | 0/11 [00:00<?, ?it/s]Grid Search over gamma:   9%|▉         | 1/11 [00:01<00:16,  1.67s/it]Grid Search over gamma:  18%|█▊        | 2/11 [00:03<00:14,  1.63s/it]Grid Search over gamma:  27%|██▋       | 3/11 [00:04<00:13,  1.64s/it]Grid Search over gamma:  36%|███▋      | 4/11 [00:06<00:11,  1.63s/it]Grid Search over gamma:  45%|████▌     | 5/11 [00:08<00:09,  1.63s/it]Grid Search over gamma:  55%|█████▍    | 6/11 [00:09<00:08,  1.64s/it]
+Grid Search over gamma:   0%|          | 0/10 [00:00<?, ?it/s]Grid Search over gamma:  10%|█         | 1/10 [00:02<00:19,  2.22s/it]Grid Search over gamma:  20%|██        | 2/10 [00:04<00:18,  2.27s/it]Grid Search over gamma:  30%|███       | 3/10 [00:06<00:16,  2.31s/it]Grid Search over gamma:  40%|████      | 4/10 [00:09<00:13,  2.31s/it]Grid Search over gamma:  50%|█████     | 5/10 [00:11<00:11,  2.27s/it]Grid Search over gamma:  60%|██████    | 6/10 [00:13<00:09,  2.29s/it]
 gamma value: 0.03125
 nmis: [0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468, 0.5509483301402468]
 0.5509483301402468
@@ -64,117 +64,7 @@ aris: [0.9647046467372006, 0.9647046467372006, 0.9647046467372006, 0.96470464673
 0.9647046467372006
 f1s: [0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144, 0.967384683365144]
 0.9673846833651438
-Grid Search over gamma:  64%|██████▎   | 7/11 [00:11<00:06,  1.66s/it]Grid Search over gamma:  73%|███████▎  | 8/11 [00:13<00:05,  1.67s/it]Grid Search over gamma:  82%|████████▏ | 9/11 [00:16<00:04,  2.15s/it]Grid Search over gamma:  91%|█████████ | 10/11 [03:21<00:58, 58.70s/it]/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited at iteration 446 with accuracies 
-[8.97799142e-15 5.11531775e-05 8.03667143e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-Use iteration 446 instead with accuracy 
-1.8145961958541842e-05.
-
-  _, diffusion_map = lobpcg(
-/usr/local/anaconda3/envs/xwj_fastsc/lib/python3.10/site-packages/sklearn/manifold/_spectral_embedding.py:455: UserWarning: Exited postprocessing with accuracies 
-[8.50290645e-15 5.11531775e-05 8.03667170e-06 1.33939989e-05]
-not reaching the requested tolerance 1.341104507446289e-05.
-  _, diffusion_map = lobpcg(
-Grid Search over gamma: 100%|██████████| 11/11 [06:29<00:00, 98.12s/it]Grid Search over gamma: 100%|██████████| 11/11 [06:29<00:00, 35.39s/it]
+Grid Search over gamma:  70%|███████   | 7/10 [00:16<00:07,  2.35s/it]Grid Search over gamma:  80%|████████  | 8/10 [00:18<00:04,  2.37s/it]Grid Search over gamma:  90%|█████████ | 9/10 [00:22<00:02,  2.83s/it]Grid Search over gamma: 100%|██████████| 10/10 [03:25<00:00, 58.44s/it]Grid Search over gamma: 100%|██████████| 10/10 [03:25<00:00, 20.54s/it]
 ********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 gamma value: 4
@@ -203,17 +93,8 @@ aris: [-0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -
 f1s: [0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723]
 0.2218788627935723
 ********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
-
-gamma value: 32
-nmis: [0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857, 0.0015128490118618857]
-0.001512849011861886
-aris: [-0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503, -0.0036400220262504503]
--0.0036400220262504507
-f1s: [0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723, 0.2218788627935723]
-0.2218788627935723
-********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 Best gamma = 2.00000
 Best mean NMI = 0.9115
 Best mean ari = 0.9647
 Best mean f1 = 0.9674
-mean time: 3.5338
+mean time: 2.0491
