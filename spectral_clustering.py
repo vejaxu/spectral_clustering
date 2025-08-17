@@ -8,6 +8,7 @@ from sklearn.metrics import confusion_matrix
 from scipy.optimize import linear_sum_assignment
 from tqdm import tqdm
 import time
+import os
 
 
 import matplotlib.pyplot as plt
@@ -89,7 +90,7 @@ def run_kmeans(X, n_clusters, n_runs, y_true):
 
 if __name__ == '__main__':
     # === 修改为你的数据文件和变量名 ===
-    key = "sparse_8_dense_1_dense_1"
+    key = "4C"
     mat_file = f'../data/{key}.mat'
 
     # spiral 4C AC RinG complex9 spam
@@ -155,9 +156,9 @@ if __name__ == '__main__':
         X_embedded = TSNE(n_components=2, random_state=42).fit_transform(X)
     else:
         X_embedded = X
-    # 可视化函数，风格统一
-    def plot_tsne(X_2d, labels, title, subplot_idx):
-        plt.subplot(1, 2, subplot_idx)
+
+    def plot_tsne(X_2d, labels, title):
+        # plt.subplot(1, 2, subplot_idx)
         scatter = plt.scatter(X_2d[:, 0], X_2d[:, 1], c=labels, cmap='viridis', alpha=0.7, s=15)
         plt.title(title)
         plt.xlabel("Dimension 1")
@@ -165,11 +166,16 @@ if __name__ == '__main__':
         plt.colorbar(scatter, label='Class Labels')
         plt.grid(True)
         plt.axis('equal')
-    # 可视化整体布局
-    plt.figure(figsize=(12, 6))
-    plot_tsne(X_embedded, y_true, "True Labels", 1)
-    # plot_tsne(X_embedded, best_overall_labels, "Spectral Clustering", 2)
-    plot_tsne(X_embedded, labels, "Kmeans", 2)
+
+    # plt.figure(figsize=(12, 6))
+    # plot_tsne(X_embedded, y_true, "True Labels", 1)
+    # # plot_tsne(X_embedded, best_overall_labels, "Spectral Clustering", 2)
+    # plot_tsne(X_embedded, labels, "Kmeans", 2)
+    # plt.tight_layout()
+    # plt.savefig(f"fig_kmeans/{key}.jpg", dpi=300)
+
+    plt.figure(figsize=(6, 6))
+    plot_tsne(X_embedded, labels, "KMeans")
     plt.tight_layout()
+    os.makedirs("fig_kmeans", exist_ok=True)
     plt.savefig(f"fig_kmeans/{key}.jpg", dpi=300)
-    # plt.show()
