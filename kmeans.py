@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.io import loadmat
-from sklearn.cluster import SpectralClustering, KMeans
+from sklearn.cluster import KMeans
 from sklearn.metrics import normalized_mutual_info_score
 from sklearn.metrics import adjusted_rand_score
 from sklearn.metrics import f1_score
@@ -31,19 +31,17 @@ def load_data_from_mat(filename, x_key='X', y_key='y'):
     return X, y
 
 
-def run_spectral_clustering(X, n_clusters, gamma, n_runs, y_true):
+def run_kmeans(X, n_clusters, n_runs, y_true):
     nmis = []
     aris = []
     f1s = []
     times = []
 
     for i in range(n_runs):
-        clustering = SpectralClustering(
-            n_clusters=n_clusters,
-            affinity='rbf',
-            gamma=gamma,
-            assign_labels='kmeans',
-            random_state=42
+        clustering = KMeans(
+            n_clusters=n_clusters, 
+            random_state=42, 
+            n_init=10
         )
         start_time = time.time()
         labels = clustering.fit_predict(X)
@@ -85,38 +83,11 @@ if __name__ == '__main__':
     print(f"dataset points: {X.shape[0]}")
     print(f"dataset features: {X.shape[1]}")
 
-    gamma_values = [2 ** i for i in range(-5, 6)]
-    best_overall_nmi = -1
-    best_overall_ari = -1
-    best_overall_f1 = -1
-    time_lst = []
-    best_gamma = None
-    best_overall_labels = None
-    for gamma in tqdm(gamma_values, desc="Grid Search over gamma"):
-        mean_nmi, mean_ari, mean_f1, mean_times, labels, nmis, aris, f1s = run_spectral_clustering(X, n_clusters, gamma, n_runs, y_true)
-        time_lst.append(mean_times)
-        if mean_nmi > best_overall_nmi:
-            best_overall_nmi = mean_nmi
-            best_overall_labels = labels
-            best_gamma = gamma
-        if mean_ari > best_overall_ari:
-            best_overall_ari = mean_ari
-        if mean_f1 > best_overall_f1:
-            best_overall_f1 = mean_f1
-        print()
-        print(f"gamma value: {gamma}")
-        print(f"nmis: {nmis}")
-        print(mean_nmi)
-        print(f"aris: {aris}")
-        print(mean_ari)
-        print(f"f1s: {f1s}")
-        print(mean_f1)
-        print("*" * 500)
-    print(f"Best gamma = {best_gamma:.5f}")
-    print(f"Best mean NMI = {best_overall_nmi:.3f}")
-    print(f"Best mean ari = {best_overall_ari:.3f}")
-    print(f"Best mean f1 = {best_overall_f1:.3f}")
-    print(f"mean time: {np.mean(time_lst):.3f}")
+    mean_nmi, mean_ari, mean_f1, mean_times, labels, nmis, aris, f1s = run_kmeans(X, n_clusters, n_runs, y_true)
+    print(f"mean NMI = {mean_nmi:.3f}")
+    print(f"mean ari = {mean_ari:.3f}")
+    print(f"mean f1 = {mean_f1:.3f}")
+    print(f"mean time: {np.mean(mean_times):.3f}")
 
     if X.shape[1] > 2:
         X_embedded = TSNE(n_components=2, random_state=42).fit_transform(X)
@@ -141,7 +112,7 @@ if __name__ == '__main__':
     # plt.savefig(f"fig_kmeans/{key}.jpg", dpi=300)
 
     plt.figure(figsize=(6, 6))
-    plot_tsne(X_embedded, labels, "SC")
+    plot_tsne(X_embedded, labels, "KMeans")
     plt.tight_layout()
-    os.makedirs("fig", exist_ok=True)
-    plt.savefig(f"fig/{key}.jpg", dpi=300)
+    os.makedirs("fig_kmeans", exist_ok=True)
+    plt.savefig(f"fig_kmeans/{key}.jpg", dpi=300)
