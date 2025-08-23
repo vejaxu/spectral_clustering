@@ -1,0 +1,26 @@
+
+==================================================
+处理数据集: init_bias
+==================================================
+加载变量名: ['data', 'class']
+data clusters: 2
+dataset points: 1200
+dataset features: 2
+mean NMI = 1.000
+mean ARI = 1.000
+mean F1 = 1.000
+mean time: 0.040
+已为 init_bias 保存所有可视化结果到 fig_kmeans/init_bias/
+
+============================================================
+处理完成
+============================================================
+Dataset: init_bias
+Clusters: 2
+Points: 1200
+Features: 2
+NMI: 1.000
+ARI: 1.000
+F1: 1.000
+Time: 0.040s
+可视化结果已保存到 fig_kmeans/init_bias/
