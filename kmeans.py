@@ -227,11 +227,24 @@ def plot_simple_boundaries(X_2d, labels, centers, title="Simple Boundaries"):
     plt.grid(True, alpha=0.3)
 
 
-def save_visualization_for_key(X_embedded, labels, centers, key, kmeans_model):
+def save_visualization_for_key(X_embedded, y_true, labels, centers, key, kmeans_model):
     """为特定key保存所有相关图片"""
     # 创建特定key的目录
     key_dir = f"fig_kmeans/{key}"
     os.makedirs(key_dir, exist_ok=True)
+
+    # 0. 数据集可视化
+    plt.figure(figsize=(8, 6))
+    scatter = plt.scatter(X_embedded[:, 0], X_embedded[:, 1], c=y_true, cmap='viridis', alpha=0.7, s=15)
+    plt.title(f"Label - {key}")
+    plt.xlabel("Dimension 1")
+    plt.ylabel("Dimension 2")
+    plt.colorbar(scatter, label='Class Labels')
+    plt.grid(True)
+    plt.axis('equal')
+    plt.tight_layout()
+    plt.savefig(f"{key_dir}/{key}_dataset.jpg", dpi=300, bbox_inches='tight')
+    plt.close()
     
     # 1. 基础t-SNE可视化
     plt.figure(figsize=(8, 6))
@@ -352,7 +365,7 @@ def process_single_dataset(key, mat_file, x_key, y_key, n_runs=10):
             X_embedded = X
 
         # 为当前key保存可视化结果
-        save_visualization_for_key(X_embedded, labels, centers, key, kmeans_model)
+        save_visualization_for_key(X_embedded, y_true, labels, centers, key, kmeans_model)
         
         return {
             'key': key,
@@ -374,7 +387,7 @@ def process_single_dataset(key, mat_file, x_key, y_key, n_runs=10):
 
 if __name__ == '__main__':
     # === 修改为你的数据文件和变量名 ===
-    key = "outliers"
+    key = "heteroskedastic"
     mat_file = f'../data/kmeans/dataset_{key}.mat'
 
     # landsat waveform3
