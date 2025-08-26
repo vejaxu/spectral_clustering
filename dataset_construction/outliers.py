@@ -13,7 +13,7 @@ class2 = rng.multivariate_normal(mean2, cov_small, 600)
 
 # 类 3：远离的大方差高斯分布（异常点）
 mean3 = [10, -10]   # 尽量远离
-cov_large = 5 * np.eye(2)  # 大方差
+cov_large = 0.2 * np.eye(2)  # 大方差
 class3 = rng.multivariate_normal(mean3, cov_large, 10)
 
 # 合并数据
