@@ -3,10 +3,23 @@ from scipy.io import savemat
 
 rng = np.random.default_rng(42)
 
-data5_a = rng.multivariate_normal([-5, 0], np.eye(2), 600)
-data5_b = rng.multivariate_normal([5, 0], np.eye(2), 600)
+# 四个类的均值，排成一个 2x2 格子
+means = [
+    [-5, -5],  # 左下
+    [ 5, -5],  # 右下
+    [-5,  5],  # 左上
+    [ 5,  5]   # 右上
+]
 
-data = np.vstack([data5_a, data5_b])
-labels = np.concatenate([np.ones(600, dtype=int), np.full(600, 2, dtype=int)])
+cov = np.eye(2)  # 各类相同方差
+n_per_class = 300
 
-savemat("/home/xwj/aaa/clustering/data/kmeans/dataset_initilization_bias.mat", {"data": data, "class": labels})
+# 生成四个类
+classes = [rng.multivariate_normal(mean, cov, n_per_class) for mean in means]
+
+# 合并数据
+data = np.vstack(classes)
+labels = np.concatenate([np.full(n_per_class, i+1, dtype=int) for i in range(4)])
+
+# 保存
+savemat("/home/xwj/aaa/clustering/data/kmeans/dataset_init_bias.mat", {"data": data, "class": labels})
