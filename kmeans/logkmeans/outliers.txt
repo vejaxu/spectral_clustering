@@ -3,12 +3,12 @@
 处理数据集: outliers
 ==================================================
 加载变量名: ['data', 'class']
-data clusters: 3
+data clusters: 2
 dataset points: 1206
 dataset features: 2
-mean NMI = 0.892
-mean ARI = 0.944
-mean F1 = 0.657
+mean NMI = 0.899
+mean ARI = 0.948
+mean F1 = 0.987
 mean time: 0.040
 已为 outliers 保存所有可视化结果到 fig_kmeans/outliers/
 
@@ -16,11 +16,11 @@ mean time: 0.040
 处理完成
 ============================================================
 Dataset: outliers
-Clusters: 3
+Clusters: 2
 Points: 1206
 Features: 2
-NMI: 0.892
-ARI: 0.944
-F1: 0.657
+NMI: 0.899
+ARI: 0.948
+F1: 0.987
 Time: 0.040s
 可视化结果已保存到 fig_kmeans/outliers/
