@@ -1,0 +1,26 @@
+
+==================================================
+处理数据集: non_spherical
+==================================================
+加载变量名: ['data', 'class']
+data clusters: 2
+dataset points: 1200
+dataset features: 2
+mean NMI = 0.655
+mean ARI = 0.757
+mean F1 = 0.935
+mean time: 0.039
+已为 non_spherical 保存所有可视化结果到 fig_kmeans/non_spherical/
+
+============================================================
+处理完成
+============================================================
+Dataset: non_spherical
+Clusters: 2
+Points: 1200
+Features: 2
+NMI: 0.655
+ARI: 0.757
+F1: 0.935
+Time: 0.039s
+可视化结果已保存到 fig_kmeans/non_spherical/
