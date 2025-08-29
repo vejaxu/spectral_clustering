@@ -1,0 +1,5 @@
+加载变量名: ['data', 'label']
+data clusters: 3
+dataset points: 5000
+dataset features: 21
+Grid Search over gamma:   0%|          | 0/11 [00:00<?, ?it/s]Grid Search over gamma:   9%|▉         | 1/11 [00:12<02:05, 12.59s/it]Grid Search over gamma:  18%|█▊        | 2/11 [00:25<01:53, 12.58s/it]Grid Search over gamma:  27%|██▋       | 3/11 [00:38<01:43, 12.94s/it]Grid Search over gamma:  36%|███▋      | 4/11 [00:53<01:37, 13.92s/it]Grid Search over gamma:  45%|████▌     | 5/11 [01:15<01:39, 16.52s/it]Grid Search over gamma:  55%|█████▍    | 6/11 [03:37<04:55, 59.16s/it]
