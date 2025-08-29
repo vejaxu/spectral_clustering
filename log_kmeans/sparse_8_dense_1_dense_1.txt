@@ -1,8 +1,0 @@
-加载变量名: ['class', 'data']
-data clusters: 3
-dataset points: 900
-dataset features: 2
-mean NMI = 0.483
-mean ari = 0.318
-mean f1 = 0.316
-mean time: 0.060
