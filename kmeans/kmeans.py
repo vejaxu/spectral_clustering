@@ -278,19 +278,7 @@ def save_visualization_for_key(X_embedded, y_true, labels, centers, key, kmeans_
         plt.grid(True)
         plt.savefig(f"{key_dir}/{key}_simple_view.jpg", dpi=300, bbox_inches='tight')
     plt.close()
-    
-    # 3. 高分辨率决策边界
-    plt.figure(figsize=(12, 10))
-    try:
-        plot_decision_boundaries(X_embedded, labels, kmeans_model, centers, resolution=0.02,
-                               title=f"High Resolution Decision Boundaries - {key}")
-        plt.tight_layout()
-        plt.savefig(f"{key_dir}/{key}_decision_boundaries_high_res.jpg", dpi=300, bbox_inches='tight')
-    except Exception as e:
-        print(f"绘制高分辨率决策边界时出错: {e}")
-    plt.close()
-    
-    # 4. 根据聚类数量选择合适的边界可视化
+
     plt.figure(figsize=(10, 8))
     if len(centers) >= 3:
         # 使用维诺图可视化
@@ -301,35 +289,6 @@ def save_visualization_for_key(X_embedded, y_true, labels, centers, key, kmeans_
     
     plt.tight_layout()
     plt.savefig(f"{key_dir}/{key}_boundaries.jpg", dpi=300, bbox_inches='tight')
-    plt.close()
-    
-    # 5. 简化版边界对比图
-    plt.figure(figsize=(12, 5))
-    
-    # 左侧：基础聚类
-    plt.subplot(1, 2, 1)
-    plt.scatter(X_embedded[:, 0], X_embedded[:, 1], c=labels, cmap=plt.cm.Set1, alpha=0.7, s=30)
-    plt.scatter(centers[:, 0], centers[:, 1], c='black', marker='x', s=200, linewidths=3)
-    plt.title(f"Clustering Result - {key}")
-    plt.xlabel("Dimension 1")
-    plt.ylabel("Dimension 2")
-    plt.grid(True, alpha=0.3)
-    
-    # 右侧：带边界
-    plt.subplot(1, 2, 2)
-    if len(centers) >= 3:
-        try:
-            plot_voronoi_with_boundaries(X_embedded, labels, centers, f"Boundaries - {key}")
-        except:
-            plt.scatter(X_embedded[:, 0], X_embedded[:, 1], c=labels, cmap=plt.cm.Set1, alpha=0.7, s=30)
-            plt.scatter(centers[:, 0], centers[:, 1], c='black', marker='x', s=200, linewidths=3)
-            plt.title(f"Boundaries - {key} (Fallback)")
-    else:
-        plot_simple_boundaries(X_embedded, labels, centers, f"Simple Boundaries - {key}")
-        plt.title(f"Simple Boundaries - {key}")
-    
-    plt.tight_layout()
-    plt.savefig(f"{key_dir}/{key}_comparison.jpg", dpi=300, bbox_inches='tight')
     plt.close()
     
     print(f"已为 {key} 保存所有可视化结果到 {key_dir}/")
