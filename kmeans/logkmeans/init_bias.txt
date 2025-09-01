@@ -6,10 +6,11 @@
 data clusters: 2
 dataset points: 1200
 dataset features: 2
+Initialized with 2 points from class 2, indices: [1161  707]
 mean NMI = 0.000
 mean ARI = -0.001
-mean F1 = 0.505
-mean time: 0.086
+mean F1 = 0.506
+mean time: 0.009
 已为 init_bias 保存所有可视化结果到 fig_kmeans/init_bias/
 
 ============================================================
@@ -21,6 +22,6 @@ Points: 1200
 Features: 2
 NMI: 0.000
 ARI: -0.001
-F1: 0.505
-Time: 0.086s
+F1: 0.506
+Time: 0.009s
 可视化结果已保存到 fig_kmeans/init_bias/
