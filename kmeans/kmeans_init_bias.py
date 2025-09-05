@@ -421,7 +421,7 @@ if __name__ == '__main__':
     x_key = 'data'
     y_key = 'class'
 
-    n_runs = 10
+    n_runs = 1
 
     # 处理单个数据集
     result = process_single_dataset(key, mat_file, x_key, y_key, n_runs)
