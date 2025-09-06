@@ -15,7 +15,7 @@ data1 = rng.multivariate_normal([0, 0], 1.0 * np.eye(2), 1000)
 data2 = rng.multivariate_normal([4, 0], 0.2 * np.eye(2), 200)
 
 # 类3：小球，中心在 [5, 0]，与类2 靠近但分离
-data3 = rng.multivariate_normal([5, 0], 0.2 * np.eye(2), 200)
+data3 = rng.multivariate_normal([6, 0], 0.2 * np.eye(2), 200)
 
 # 合并数据和标签
 data = np.vstack([data1, data2, data3])
