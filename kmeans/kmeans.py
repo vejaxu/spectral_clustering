@@ -346,7 +346,7 @@ def process_single_dataset(key, mat_file, x_key, y_key, n_runs=10):
 
 if __name__ == '__main__':
     # === 修改为你的数据文件和变量名 ===
-    key = "non_spherical_2"
+    key = "non_spherical_3"
     mat_file = f'../../data/kmeans/dataset_{key}.mat'
 
     # landsat waveform3
